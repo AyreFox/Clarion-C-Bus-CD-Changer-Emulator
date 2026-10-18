@@ -10,9 +10,9 @@ When you select CD on your Clarion headunit, the Arduino responds with the expec
 <h1> How do I make it work??</h1>
 You need a couple of things
 
-1x Arduino Uno or Nano
-1x 13 pin DIN Cable, I used a random ebay sourced cable that I believe was for an Atari ST peripheral?
-1x 3.5mm audio jack to wire to the DIN cable
+1x Arduino Uno or Nano <br>
+1x 13 pin DIN Cable, I used a random ebay sourced cable that I believe was for an Atari ST peripheral? <br>
+1x 3.5mm audio jack to wire to the DIN cable <br>
 
 Pinout for Arduino Connection:
 
